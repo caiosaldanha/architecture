@@ -1,2 +1,2 @@
-# architecture
+# Architecture
 Software + Data Architecture
